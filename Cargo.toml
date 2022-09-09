@@ -1,0 +1,11 @@
+[package]
+name = "l1-pathfinding"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = "0.8.1"
+leafwing-input-manager = "0.5.2"
+building-blocks = "0.7.1"
